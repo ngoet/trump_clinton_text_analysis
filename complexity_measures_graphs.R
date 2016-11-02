@@ -6,7 +6,7 @@
 ###############
 #text complexity
 ###############
-setwd("~/Documents/Oxford/DPhil/Teaching/Political Analysis Using R/2016:2017/blog_posts")
+setwd("")
 
 speeches <- read.csv("speeches.csv",header=T,stringsAsFactors=T,encoding="UTF-8")
 speeches$speech <- as.character(speeches$speech)
