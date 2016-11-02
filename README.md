@@ -1,4 +1,4 @@
-# trump_clinton_text_analysis
+# Trump and Clinton speeches July-Oct. 2016, text analysis
 
 This repository contains replication data and R and Python scripts for my blog post on Clinton and Trump speeches in the US presidential election cycle of 2016. 
 
